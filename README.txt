@@ -5,3 +5,5 @@ import database
 taruh folder resfull di htdocs
 admin (username:admin, password:admin)
 salah satu user/pemilik seminar (username:ari, password:ari)
+
+Test v 2.0
