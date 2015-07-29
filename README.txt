@@ -7,3 +7,5 @@ admin (username:admin, password:admin)
 salah satu user/pemilik seminar (username:ari, password:ari)
 
 tambah v2.1
+
+tambah v3.0
